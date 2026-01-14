@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chordgossip/static/css/main.ef6d98b7.css",
+    "main.js": "/chordgossip/static/js/main.a0c8d5ac.js",
+    "index.html": "/chordgossip/index.html",
+    "main.ef6d98b7.css.map": "/chordgossip/static/css/main.ef6d98b7.css.map",
+    "main.a0c8d5ac.js.map": "/chordgossip/static/js/main.a0c8d5ac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef6d98b7.css",
+    "static/js/main.a0c8d5ac.js"
+  ]
+}
