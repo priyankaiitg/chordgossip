@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/chordgossip/static/css/main.94614a2c.css",
-    "main.js": "/chordgossip/static/js/main.46423706.js",
+    "main.css": "/chordgossip/static/css/main.ef6d98b7.css",
+    "main.js": "/chordgossip/static/js/main.a0c8d5ac.js",
     "index.html": "/chordgossip/index.html",
-    "main.94614a2c.css.map": "/chordgossip/static/css/main.94614a2c.css.map",
-    "main.46423706.js.map": "/chordgossip/static/js/main.46423706.js.map"
+    "main.ef6d98b7.css.map": "/chordgossip/static/css/main.ef6d98b7.css.map",
+    "main.a0c8d5ac.js.map": "/chordgossip/static/js/main.a0c8d5ac.js.map"
   },
   "entrypoints": [
-    "static/css/main.94614a2c.css",
-    "static/js/main.46423706.js"
+    "static/css/main.ef6d98b7.css",
+    "static/js/main.a0c8d5ac.js"
   ]
 }
